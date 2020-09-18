@@ -1,0 +1,2 @@
+[22-Jul-2019 12:33:54 UTC] PHP Warning:  copy(/home/ccit520/public_html/SwordsofEleytra/wp-admin/includes/update-core.php): failed to open stream: Permission denied in /home/ccit520/public_html/SwordsofEleytra/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[22-Jul-2019 14:06:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ccit520/public_html/SwordsofEleytra/wp-content/plugins/usc-e-shop/functions/filters.php on line 974
